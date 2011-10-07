@@ -1,13 +1,13 @@
 !SLIDE 
 # Zu Gast in der Python Community
 
-!SLIDE large incremental transition=scrollLeft
+!SLIDE commandline center incremental transition=scrollLeft
 
 # First things first
 
-## Dankeschön.
+    $ Dankeschön.
 
-!SLIDE commandline incremental transition=scrollLeft
+!SLIDE commandline center incremental transition=scrollLeft
 # whoami
 
     $ id
@@ -19,7 +19,8 @@
 
 * Linux!
 * Windows!
-* Akademiker!
+* Wissenschaftler!
+* Praxis!!
 * "gehobener" Altersdurchschnitt
 
 !SLIDE center transition=scrollLeft
@@ -37,16 +38,14 @@
 # Parallelen
 * Die CMS Seuche
 * Der Packagemanager-War
-* WSGI, Rack
-
-!SLIDE transition=scrollLeft
-# 
+* WSGI + Rack
 
 !SLIDE incremental transition=scrollLeft
 # Call for Speakers
 
 * Speaker sind Menschen
-* Einfach **machen**
+* **Macht** es einfach
+* Gründet Usergroups
 
 !SLIDE incremental transition=scrollLeft
 # Fragen?
